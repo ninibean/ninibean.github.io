@@ -1,6 +1,6 @@
 # Portfolio
 
-Redesegined my portfolio website yet again! I am actually happy with this iteration. I still have a ways to go, but I am happy that I can create a decent webpage. This is an ongoing project.
+Redesegined my portfolio website yet again! I am actually happy with this iteration. I still have a ways to go, but I am happy that I can create a decent webpage.  Bult using Boostrap. I plan on using some JS in the future. This is an ongoing project.
 
 
 ## Upcoming Fixes:
