@@ -1,0 +1,56 @@
+ul {
+  list-style-type: none;
+  color: #7E7F9A;
+  text-align: center;
+
+}
+
+.card-deck {
+  padding: 1rem;
+}
+
+body {
+  background-color: #3C1B43;
+}
+
+.card {
+  background-color: #3C1B43;
+  box-shadow: 12px 12px 2px 1px #28122B;
+  border-radius: 5px;
+}
+
+h1{
+  color: #F2E8DB;
+  font-family: Coustard, serif;
+}
+
+p {
+  color: #7E7F9A;
+  font-family: Montserrat, sans-serif;
+}
+
+h5 {
+  color: #F2E8DB;
+}
+
+#sidebar img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 18rem;
+  padding: 1rem;
+  border-radius: 40px;
+  
+}
+
+#sidebar a {
+  color: #F2E8DB;
+  font-family: Montserrat, sans-serif;
+}
+
+span {
+  color: #F2E8DB;
+  font-style: bold;
+}
+
+
